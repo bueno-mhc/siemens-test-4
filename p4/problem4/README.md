@@ -1,6 +1,6 @@
 Para execução do  projeto, é necessário executar em um compilador java o arquivo em "problem4/src/App.java", classe principal do projeto.
 
-As entradas são feitas na pasta "data" e pelo arquivo "inputs.txt". Cada linha do arquivo de entrada é avaliada separadamente e contado o número de elementos em cada linha (considerada como string).
+As entradas são feitas na pasta "data" e pelo arquivo "inputs.txt". Cada linha do arquivo de entrada é uma string para ser avaliada separadamente e contado seu número de elementos.
 
  A entrada pode ter quantos linhas for desejado, que serão avaliadas na mesma execuçãodo do programa.
  
